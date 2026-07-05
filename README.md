@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://media.tenor.com/4bQvL6G0kQ8AAAAi/cat-sleep.gif" width="180" alt="Sleeping Cat">
+  <img src="https://media.tenor.com/4bQvL6G0kQ8AAAAi/cat-sleep.gif" width="180">
 </p>
 
 <p align="center">
-  🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸
+🌸 ✿ 🌸 ✿ 🌸 ✿ 🌸
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="falling sakura petals">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="320">
+</p>
+
+<p align="center">
+🌸 ✿ 🌸 ✿ 🌸 ✿ 🌸
 </p>
 
 # Hi, I'm Haneen 
