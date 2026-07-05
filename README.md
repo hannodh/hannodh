@@ -23,16 +23,13 @@
   <img src="https://img.shields.io/badge/C++-FFC0CB?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
----
-
 
 <p align="center">
 🌸 ✿ 🌷 ⋆ ˚｡⋆୨୧˚ 🌷 ✿ 🌸
 </p>
 
----
 📍 **Jordan 🇯🇴**
----
+
 
 ## 👀 Profile Views
 
