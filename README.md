@@ -6,7 +6,7 @@
 🌸 ✿ 🌷 ⋆ ˚｡⋆୨୧˚ 🌷 ✿ 🌸
 </p>
 
-# Hi, I'm Haneen 👋
+# Hi, I'm Haneen 
 
 🎓 Second-year Data Science & Artificial Intelligence student.  
 🏫 Applied Science Private University, Jordan 🇯🇴  
