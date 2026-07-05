@@ -1,4 +1,4 @@
-# Hi, I'm Haneen 👋
+# Hi, I'm Haneen 
 
 <p align="center">
   <img src="https://media.tenor.com/4bQvL6G0kQ8AAAAi/cat-sleep.gif" width="180" alt="Sleeping Cat">
