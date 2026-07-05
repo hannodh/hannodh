@@ -25,7 +25,6 @@
 
 ---
 
-## 🌸 Aesthetic Divider
 
 <p align="center">
 🌸 ✿ 🌷 ⋆ ˚｡⋆୨୧˚ 🌷 ✿ 🌸
