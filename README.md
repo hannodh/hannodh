@@ -38,7 +38,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=hannodh&label=Profile%20Views&color=ff69b4&style=for-the-badge">
 </p>
 
 ---
