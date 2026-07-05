@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Haneen 👋
 
-<!--
-**hannodh/hannodh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.tenor.com/4bQvL6G0kQ8AAAAi/cat-sleep.gif" width="180" alt="Sleeping Cat">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+🌸 ✿ 🌷 ⋆ ˚｡⋆୨୧˚ 🌷 ✿ 🌸
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Second-year Data Science & Artificial Intelligence student.**
+
+🏫 **Student at Applied Science Private University.**
+
+💻 **I enjoy building projects to improve my programming skills.**
+
+🌱 **Currently learning and expanding my knowledge through hands-on projects.**
+
+## 💡 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-FFC0CB?style=for-the-badge&logo=cplusplus&logoColor=white">
+</p>
+
+📍 **Jordan 🇯🇴**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Visitor Counter">
+</p>
+
+<p align="center">
+🌸 Thanks for visiting my profile! 🌸
+</p>
