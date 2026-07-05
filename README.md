@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/4bQvL6G0kQ8AAAAi/cat-sleep.gif" width="160" alt="sleeping cat">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2k3OHVtbDJscTJyN3gwam52bjRtajRtMDZiMzFyemZscjB4dTJ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mBnJ5l4HZgQq0w1D2G/giphy.gif" width="160" alt="sleeping cat">
 </p>
 
 <p align="center">
