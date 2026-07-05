@@ -14,7 +14,9 @@
 💻 I enjoy building projects to improve my programming skills.  
 🌱 Learning through hands-on projects and real practice.  
 
----
+<p align="center">
+🌸 ✿ 🌷 ⋆ ˚｡⋆୨୧˚ 🌷 ✿ 🌸
+</p>
 
 ## 💡 Programming Languages
 
