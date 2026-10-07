@@ -11,8 +11,34 @@
 🎓 Second-year Data Science & Artificial Intelligence student.  
 🏫 Applied Science Private University, Jordan 🇯🇴  
 
-💻 I enjoy building projects to improve my programming skills.  
-🌱 Learning through hands-on projects and real practice.  
+💻 I'm currently building a strong foundation in **programming, mathematics, and computer science**, while developing practical skills through personal projects.
+
+### 💻 Currently working with
+
+- C++
+
+- Java
+
+- Object-Oriented Programming
+
+- Programming Fundamentals
+
+
+### 📚 Foundations
+
+- Discrete Mathematics
+
+- Calculus
+
+- Linear Algebra
+
+- Probability & Statistics
+
+### 🚀 What I'm working toward
+
+I'm interested in **Data Science, Machine Learning, and Artificial Intelligence** and I'm gradually building the skills and projects needed to move into these fields.
+
+I enjoy learning by building, experimenting, solving problems, and documenting my progress.
 
 <p align="center">
 🌸 ✿ 🌷 ⋆ ˚｡⋆୨୧˚ 🌷 ✿ 🌸
