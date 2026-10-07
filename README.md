@@ -61,7 +61,7 @@ I enjoy learning by building, experimenting, solving problems, and documenting m
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hannodh&label=Profile%20Views&color=ff69b4&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=hanodh&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views">
 </p>
 
 
